@@ -1,3 +1,4 @@
+<p align="center"><img src="https://ipaymu.com/wp-content/themes/ipaymu-new/assets/img/logo/ipaymu-text-plus-blue.png" width="400"></p>
 # iPaymu Payment Gateway Plugin (COD) - WooComerce
 
 hanya bisa digunakan pada transaksi yang melakukan pembelian hanya 1 produk saja.
