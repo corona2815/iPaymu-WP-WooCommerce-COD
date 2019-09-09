@@ -2,6 +2,9 @@
 
 # iPaymu Payment Gateway Plugin (COD) - WooComerce
 
+Integrasikan Online Store WordPress Anda menggunakan plugin WP Woo Commerce yang sudah terintegrasi dengan layanan IPAYMU Cash on Delivery. 
+
+Note:
 hanya bisa digunakan pada transaksi yang melakukan pembelian hanya 1 produk saja.
 
 Jika produk pada cart lebih dari 1, metode pembayaran ini tidak akan ditampilkan
